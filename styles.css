@@ -69,6 +69,7 @@ body.body {
     max-width: 450px;
   }
   h1.header {
+    font-size: 18px;
     padding: 40px 20px 10px 10px;
   }
   .info-list-grid {
