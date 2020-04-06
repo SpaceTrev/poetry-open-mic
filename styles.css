@@ -36,14 +36,6 @@ body.body {
     background-position: 0% 50%;
   }
 }
-.paper {
-  top: 0px;
-  z-index: -1;
-  position: absolute;
-}
-.content-container {
-  z-index: 10;
-}
 .info-list-grid {
   padding: 10px 20px;
   border-radius: 4px;
@@ -71,7 +63,7 @@ body.body {
   }
   h1.header {
     font-size: 18px;
-    padding: 40px 20px 10px 10px;
+    padding-top: 40px !important;
   }
   .info-list-grid {
     padding-bottom: 30px;
