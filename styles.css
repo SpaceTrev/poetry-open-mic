@@ -52,11 +52,6 @@ body.body {
     "info-list-header2 info-list-header2 info-list-header5 info-list-header5  info-list-header6 info-list-header6 "
     "info-list-item2 info-list-item2 info-list-item5 info-list-item5  info-list-item6 info-list-item6 ";
 }
-@media screen and (max-width: 750px) {
-  .paper {
-    display: none;
-  }
-}
 @media screen and (max-width: 611px) {
   .grid {
     max-width: 450px;
